@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Derrick, A Full Stack Developer..I'm a community-taught software developer with a passion for building web applications. Let's build something great together!  * 🌍  I'm based in Ghana * ✉️  You can contact me at [work.derrickabbey@gmail.com](mailto:work.derrickabbey@gmail.com) * 🧠  I'm learning Typesript,Express js and next js * 🤝  I'm open to collaborating on any Fullstack app
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Derrick, A Full Stack Developer..I'm a community-taught software developer with a passion for building web applications. Let's build something great together!  * 🌍  I'm based in Ghana * ✉️  You can contact me at [work.derrickabbey@gmail.com](mailto:work.derrickabbey@gmail.com) * 🧠 proficient in Javascript,React, Typesript,Express js,MongoDB next js etc. * 🤝  I'm open to collaborating on any Fullstack app
 
 ### Skills  
 
